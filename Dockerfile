@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM andthensome/alpine-surge-bash
 
 ARG http_proxy
 ARG https_proxy
